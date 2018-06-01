@@ -1,2 +1,2 @@
 # kube-proxy-amd64
-k8s.gcr.io/google_containers/kube-proxy-amd64:v1.10.3
+k8s.gcr.io/kube-proxy-amd64:v1.10.3
